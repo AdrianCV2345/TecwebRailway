@@ -1,0 +1,8 @@
+C:\Users\Maria\U\2-2025\Tec Web I\StudentsCRUD\StudentsCRUD\obj\Debug\net9.0\StudentsCRUD.csproj.AssemblyReference.cache
+C:\Users\Maria\U\2-2025\Tec Web I\StudentsCRUD\StudentsCRUD\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Maria\U\2-2025\Tec Web I\StudentsCRUD\StudentsCRUD\obj\Debug\net9.0\StudentsCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\U\2-2025\Tec Web I\StudentsCRUD\StudentsCRUD\obj\Debug\net9.0\StudentsCRUD.AssemblyInfoInputs.cache
+C:\Users\Maria\U\2-2025\Tec Web I\StudentsCRUD\StudentsCRUD\obj\Debug\net9.0\StudentsCRUD.AssemblyInfo.cs
+C:\Users\Maria\U\2-2025\Tec Web I\StudentsCRUD\StudentsCRUD\obj\Debug\net9.0\StudentsCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Maria\U\2-2025\Tec Web I\StudentsCRUD\StudentsCRUD\obj\Debug\net9.0\StudentsCRUD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maria\U\2-2025\Tec Web I\StudentsCRUD\StudentsCRUD\obj\Debug\net9.0\StudentsCRUD.MvcApplicationPartsAssemblyInfo.cache
