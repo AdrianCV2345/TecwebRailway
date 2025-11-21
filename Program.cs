@@ -15,6 +15,7 @@ Env.Load(); // Carga las variables del archivo .env al Environment
 // --- LECTURA EXPLÍCITA DEL PUERTO (OPCIONAL PERO RECOMENDADO) ---
 var port = Environment.GetEnvironmentVariable("PORT");
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Si se define el puerto en .env, lo aplicamos para escuchar en 0.0.0.0
